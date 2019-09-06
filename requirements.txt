@@ -1,0 +1,1 @@
+python-barcode==0.10.0
